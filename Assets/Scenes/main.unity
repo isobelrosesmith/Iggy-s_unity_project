@@ -133,7 +133,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7367751614493418206, guid: f686430d11a3cd5479dbba4fd97a6d95, type: 3}
       propertyPath: m_Name
-      value: Milk Crate (3)
+      value: crate-4
       objectReference: {fileID: 0}
     - target: {fileID: 7887020803580016740, guid: f686430d11a3cd5479dbba4fd97a6d95, type: 3}
       propertyPath: m_LocalScale.x
@@ -263,7 +263,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7492044681011413184, guid: a8c8809ca91ff9e40888a9fb4b2d2c83, type: 3}
       propertyPath: m_Name
-      value: Shelf System Assembled
+      value: Shelf System
       objectReference: {fileID: 0}
     - target: {fileID: 7832540808035834490, guid: a8c8809ca91ff9e40888a9fb4b2d2c83, type: 3}
       propertyPath: m_LocalPosition.x
@@ -720,7 +720,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7367751614493418206, guid: f686430d11a3cd5479dbba4fd97a6d95, type: 3}
       propertyPath: m_Name
-      value: Milk Crate
+      value: crate-1
       objectReference: {fileID: 0}
     - target: {fileID: 7887020803580016740, guid: f686430d11a3cd5479dbba4fd97a6d95, type: 3}
       propertyPath: m_LocalScale.x
@@ -991,7 +991,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7542153522805577135, guid: d792de34146ff8f40bf61b394fa54224, type: 3}
       propertyPath: m_Name
-      value: Cubes
+      value: Cube shelving
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1100,7 +1100,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7367751614493418206, guid: f686430d11a3cd5479dbba4fd97a6d95, type: 3}
       propertyPath: m_Name
-      value: Milk Crate (2)
+      value: crate-3
       objectReference: {fileID: 0}
     - target: {fileID: 7887020803580016740, guid: f686430d11a3cd5479dbba4fd97a6d95, type: 3}
       propertyPath: m_LocalScale.x
@@ -1270,27 +1270,27 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: b549aab3593c6410b8fdde966dbe9973, type: 3}
       propertyPath: m_LocalScale.x
-      value: 241.14876
+      value: 209.17726
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b549aab3593c6410b8fdde966dbe9973, type: 3}
       propertyPath: m_LocalScale.y
-      value: 9.056013
+      value: 7.855367
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b549aab3593c6410b8fdde966dbe9973, type: 3}
       propertyPath: m_LocalScale.z
-      value: 143.26295
+      value: 124.26916
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b549aab3593c6410b8fdde966dbe9973, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.26812
+      value: -0.25988
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b549aab3593c6410b8fdde966dbe9973, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -14.97
+      value: -15.106
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b549aab3593c6410b8fdde966dbe9973, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 17.268
+      value: 17.27
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b549aab3593c6410b8fdde966dbe9973, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1459,7 +1459,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7367751614493418206, guid: f686430d11a3cd5479dbba4fd97a6d95, type: 3}
       propertyPath: m_Name
-      value: Milk Crate (1)
+      value: crate-2
       objectReference: {fileID: 0}
     - target: {fileID: 7887020803580016740, guid: f686430d11a3cd5479dbba4fd97a6d95, type: 3}
       propertyPath: m_LocalScale.x
@@ -1540,11 +1540,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d38f0432d45c644b2ad8ad813d676afe, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.495
+      value: -0.468
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d38f0432d45c644b2ad8ad813d676afe, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -14.761
+      value: -14.902
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d38f0432d45c644b2ad8ad813d676afe, type: 3}
       propertyPath: m_LocalPosition.z
