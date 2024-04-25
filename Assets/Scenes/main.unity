@@ -8775,8 +8775,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -117.77755}
-  m_SizeDelta: {x: 0, y: -235.5551}
+  m_AnchoredPosition: {x: 0, y: -83.74591}
+  m_SizeDelta: {x: 0, y: -167.4918}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &453901565
 MonoBehaviour:
@@ -17192,8 +17192,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -48, y: -117.78}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 0, y: -93.87}
+  m_SizeDelta: {x: 762.2717, y: 187.7396}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1501098667
 MonoBehaviour:
@@ -17215,7 +17215,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: donation info
+  m_text: Non perishable food is donated by the public at various places, such as
+    schools, churches and supermarkets. It is then sorted into emergency food parcels
+    by more than 28,000 volunteers.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -17278,7 +17280,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: -4.362076, z: -126.50171, w: 0}
+  m_margin: {x: 0, y: -4.362076, z: 3.0635986, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
