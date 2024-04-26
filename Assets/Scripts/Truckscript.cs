@@ -4,12 +4,15 @@ using UnityEngine;
 
 public class Truckscript : MonoBehaviour
 {
+    //public slot to drag and drop UI GameObject in
     public GameObject ui;
 
+    //triggered automatically when something collides with this object's box collider.
     void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Player"))
         {
+            //If it's the player show the UI element.
             ui.SetActive(true);
         }
     }
@@ -18,6 +21,7 @@ public class Truckscript : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
+            //If player leaves hide the UI element.
             ui.SetActive(false);
         }
     }

@@ -3,22 +3,26 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class NpcInteract : MonoBehaviour
-{ 
-   public GameObject ui;
-
-void OnTriggerEnter(Collider other)
 {
-    if (other.CompareTag("Player"))
-    {
-        ui.SetActive(true);
-    }
-}
+    //public slot to drag and drop UI GameObject in
+    public GameObject ui;
 
-void OnTriggerExit(Collider other)
-{
-    if (other.CompareTag("Player"))
+    //triggered automatically when something collides with this object's box collider.
+    void OnTriggerEnter(Collider other)
     {
-        ui.SetActive(false);
+        if (other.CompareTag("Player"))
+        {
+            //If it's the player show the UI element.
+            ui.SetActive(true);
+        }
     }
-}
+
+    void OnTriggerExit(Collider other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            //If player leaves hide the UI element.
+            ui.SetActive(false);
+        }
+    }
 }
