@@ -3,57 +3,7 @@ guid: 6f2e6d132ad93430c9d1e4ed9f30e12d
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Cubemap
-      assembly: UnityEngine.CoreModule
-      name: diffuse_cube
-    second: {fileID: 8900000, guid: 28767f7a5fd5a47d7be5fd4dea4b597d, type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: StingrayPBS2
-    second: {fileID: 2100000, guid: e91f7fd48d4464acb83e8966765591fe, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: StingrayPBS3
-    second: {fileID: 2100000, guid: 4e8216af52e314708a80367be928d537, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lid
-    second: {fileID: 2100000, guid: 28b68f1bd0dbb4b31919b71e0c971426, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: underlid
-    second: {fileID: 2100000, guid: db71aac8d1f3b4c6e8f32383aa8e2a44, type: 2}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Metal011_2K-JPG_Color
-    second: {fileID: 2800000, guid: 3ff1376c6789846ac9404a9f6d581b5c, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Metal011_2K-JPG_Metalness
-    second: {fileID: 2800000, guid: c819b457553f74d909a85e00ff65759a, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Metal011_2K-JPG_NormalDX
-    second: {fileID: 2800000, guid: bbf104a5cbb0547e7a190d7fce324001, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Metal011_2K-JPG_Roughness
-    second: {fileID: 2800000, guid: b953ca13dabc84b2092c4af85db12708, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: ibl_brdf_lut
-    second: {fileID: 2800000, guid: c7fb5f128ff934d2da99f16d7309aa66, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
